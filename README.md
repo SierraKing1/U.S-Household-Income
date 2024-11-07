@@ -11,14 +11,14 @@ The U.S. Household Income data analysis project involves an exploration of house
 **3. Income Join Analysis:**
  * Several joins between the two datasets allow for comprehensive analysis on household income. For instance, using an inner join on household income entries with non-zero means to compare mean and median incomes by geographic and demographic categories.
    
-**State and City Income Trends:**
+**4. State and City Income Trends:**
  * Calculations of average income at the state and city levels (both mean and median) facilitate the identification of the top 10 states or cities with the highest and lowest average household incomes, offering insights into areas with significant wealth or income disparities.
    
-**Income Comparison by Area Type:**
+**5. Income Comparison by Area Type:**
  * Summarizing mean and median incomes by area type (urban, rural, suburban, community) enables an understanding of how income varies across different environments and lifestyle settings. Grouped averages and counts for each type are used to rank income levels and assess the representation of each type in the dataset.
    
-**Detailed Community-Level Analysis:**
+**6. Detailed Community-Level Analysis:**
  * A specific examination of community-type areas provides a view of income patterns in these smaller, often less populated regions, which can highlight income contrasts in localized communities.
 
-**City-Level Income Comparison:**
+**7. City-Level Income Comparison:**
  * The project delves into income by cities within each state, identifying the cities with the highest average incomes. These insights can be vital for examining wealth concentration in urban centers versus more spread-out income in rural areas.
