@@ -20,5 +20,5 @@ The U.S. Household Income data analysis project involves an exploration of house
 **Detailed Community-Level Analysis:**
  * A specific examination of community-type areas provides a view of income patterns in these smaller, often less populated regions, which can highlight income contrasts in localized communities.
 
-****City-Level Income Comparison:**
+**City-Level Income Comparison:**
  * The project delves into income by cities within each state, identifying the cities with the highest average incomes. These insights can be vital for examining wealth concentration in urban centers versus more spread-out income in rural areas.
