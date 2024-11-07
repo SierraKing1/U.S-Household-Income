@@ -1,1 +1,2 @@
 # U.S-Household-Income
+This set of SQL queries was designed for an exploratory analysis of U.S. household income data, drawing from the US_Project.us_household_income and US_Project.us_household_income_statistics tables. Key components of the analysis include data selection, aggregation, and filtering to gain insights into income distribution and demographic statistics across various states, counties, and city types. 
